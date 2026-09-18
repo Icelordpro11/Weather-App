@@ -1,7 +1,6 @@
 # Weather App
 
 A simple weather dashboard built with React, TypeScript, and Flask.
-
 It uses the free Open-Meteo API to show current weather, hourly weather, and a 7-day forecast.
 
 ## Screenshot
